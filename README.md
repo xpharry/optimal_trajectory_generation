@@ -15,6 +15,8 @@ In this paper, some interesting (and potentially useful) topics were discussed l
 
 ## Polynomial Playground
 
+Play around with cost function design and weight tweaking:
+
 1. From the code directory, run python evaluate_ptg.py. You should see a plot similar to the one below. This plot shows the s (x-axis) and d(y-axis) trajectories followed by a vehicle in traffic (red) and a self driving car (blue).
 
 ![](./images/initial_plot.png)
